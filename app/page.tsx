@@ -15,8 +15,12 @@ export default function Home() {
           <h1 className="text-2xl font-medium text-foreground pointer-events-auto">
             Rohin Phukan
           </h1>
-          
+
           <p className="text-lg pointer-events-auto">
+            hi
+          </p>
+          
+          {/* <p className="text-lg pointer-events-auto">
             currently studying cs and doing research @ cornell, incoming sde @ amazon
           </p>
           
@@ -26,7 +30,7 @@ export default function Home() {
 
           <p className="text-lg pointer-events-auto">
             recently went to ycombinator&apos;s ai startup school and the ycombinator x openai event in new york
-          </p>
+          </p> */}
           
           <div className="h-px bg-foreground/20 my-6"></div>
           
