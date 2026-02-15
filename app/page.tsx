@@ -36,7 +36,7 @@ export default function Home() {
           
           <div className="flex space-x-4 text-foreground">  
             <a 
-              href="https://github.com/rohin20" 
+              href="https://github.com/rohin-phukan" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:opacity-70 transition-opacity underline pointer-events-auto"
